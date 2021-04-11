@@ -1,3 +1,3 @@
-# Desafio técnico de front-end da Compasso
+# Utilização da api pokeapi
 
 Para execução do projeto execute o comando yarn start
